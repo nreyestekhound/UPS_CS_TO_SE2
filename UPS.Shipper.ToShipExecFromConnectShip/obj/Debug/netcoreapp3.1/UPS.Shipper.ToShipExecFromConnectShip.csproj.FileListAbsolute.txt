@@ -1,0 +1,69 @@
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.exe
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.deps.json
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.runtimeconfig.json
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.runtimeconfig.dev.json
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.dll
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.pdb
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.Form1.resources
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.csproj.GenerateResource.cache
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.AssemblyInfoInputs.cache
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.AssemblyInfo.cs
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.csproj.CopyComplete
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.dll
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.pdb
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.genruntimeconfig.cache
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.csproj.AssemblyReference.cache
+C:\Users\Daniel\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.exe
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.deps.json
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.dll
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.pdb
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.Form1.resources
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.csproj.GenerateResource.cache
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.csproj.CopyComplete
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.dll
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.pdb
+C:\Users\danie\OneDrive\Documentos\UPS\New Stuff\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.genruntimeconfig.cache
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.exe
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.deps.json
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.runtimeconfig.json
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.runtimeconfig.dev.json
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.dll
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.pdb
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.csproj.AssemblyReference.cache
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.Form1.resources
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.csproj.GenerateResource.cache
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.AssemblyInfoInputs.cache
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.AssemblyInfo.cs
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.csproj.CopyComplete
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.dll
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.pdb
+C:\Users\Nico\Desktop\UPS.Shipper.ToShipExecFromConnectShip\UPS.Shipper.ToShipExecFromConnectShip\obj\Debug\netcoreapp3.1\UPS.Shipper.ToShipExecFromConnectShip.genruntimeconfig.cache
